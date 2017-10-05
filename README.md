@@ -1,5 +1,6 @@
-##CIFRADO CESAR
-###1. Diagrama de Flujo
+## CIFRADO CESAR
+
+### 1. Diagrama de Flujo
 
 ![Diagrama de Flujo para Cifrado César]
 (https://i.imgur.com/6BN4lGt.jpg)
