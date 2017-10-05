@@ -2,10 +2,9 @@
 
 ### 1. Diagrama de Flujo
 
-![Diagrama de Flujo para Cifrado César]
-(https://i.imgur.com/6BN4lGt.jpg)
+![Diagrama de Flujo para Cifrado César] (https://i.imgur.com/6BN4lGt.jpg)
 
-2. Pseudocódigo
+### 2. Pseudocódigo
 
 + Inicio
 + Entrada de datos. Se pregunta al usuario mediante un prompt() que acción desea realizar.
